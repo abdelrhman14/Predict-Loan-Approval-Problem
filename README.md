@@ -5,11 +5,15 @@ Dream Housing Finance company deals in all home loans. They have presence across
 
 This is a standard supervised classification task.A classification problem where we have to predict whether a loan would be approved or not. Below is the dataset attributes with description.
 
+
+
 Libraries
 pandas
 matplotlib
 seaborn
 scikit-learn
+
+
 
 Algorithms
 Logistic Regression
